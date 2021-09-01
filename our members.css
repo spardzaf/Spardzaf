@@ -238,3 +238,24 @@ section
     border-radius: 7px;
     box-shadow: 3px 3px 3px rgb(71, 71, 71);
 }
+.next-page{
+    font-size: 1.5em;
+    font-weight:700;
+    text-align: right;
+    position: relative;
+    right: 150px;
+    margin-bottom: 30px;
+}
+.next-page a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(23, 23, 95);
+    border-radius: 3px;
+    padding: 10px 20px;
+
+}
+.next-page a:active,
+.next-page a:hover{
+    background-color: floralwhite;
+    color: darkblue;
+}
