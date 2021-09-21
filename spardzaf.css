@@ -78,6 +78,17 @@ section
     z-index: 9;
     align-items: center;
 }
+#text2{
+    position: absolute;
+    width: 60%;
+    padding: 40px 40px;
+    color: #ffffff;
+    font-size: 1.4em;
+    z-index: 9;
+    transform: translateY(200px);
+    background-color: rgba(78, 26, 126, 0.678);
+    border-radius: 20px;
+}
 #btn
 {
     position: absolute;
